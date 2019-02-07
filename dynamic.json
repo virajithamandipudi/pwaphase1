@@ -1,0 +1,47 @@
+{
+	"profile":{
+		"img":"propic.png",
+		"name":"kota supriya",
+		"rollno":"1212",
+		"institute":"pragati",
+		"place":"rajahmundry"
+	},
+	"career":{
+		"info":"To be satisfied whatever work i do"
+	},
+	"education":
+	[
+		{
+			"sno":"1",
+			"degree":"b.tech",
+			"institute":"pragati",
+			"yop":"2021"
+
+		},
+				{
+			"sno":"2",
+			"degree":"INTER",
+			"institute":"chaitanya",
+			"yop":"2017"
+
+		},
+		{
+			"sno":"3",
+			"degree":"10th",
+			"institute":"MVN",
+			"yop":"2015"
+
+		}
+	],
+	"languages":[
+		{
+			"lang":"telugu"
+		},
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"hindi"
+		}
+	]
+}
